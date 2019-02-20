@@ -1,2 +1,2 @@
 # employee-handbook
-Employee handbook / Manual de l’employé(e)
+Employee handbook / Manuel de l’employé(e)
