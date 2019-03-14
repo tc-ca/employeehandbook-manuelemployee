@@ -15,4 +15,9 @@ You will be required to bring one piece of photo identification to be able to ob
 - [x] Complete and send in security forms
 - [x] Receive and sign Letter of Offer
 - [x] Fill out and email or fax in pay forms
-- [x] receive security access badge (main floor of building at commissioners desk. Pass control office is open 8am to noon, mon to fri)
+- [x] Receive security access badge (main floor of building at commissioners desk. Pass control office is open 8am to noon, mon to fri)
+- [x] Set-up email and email signature
+
+Once you have received your PRI#:
+- [x] Sign up for LEX - Leave and extra duty system
+- [x] Sign up for myKEY
