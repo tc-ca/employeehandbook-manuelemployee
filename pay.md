@@ -11,9 +11,9 @@ You will need to fill out **all** mandatory forms below:
 2. The employment summary information on page two of the New Employee Questionnaire will be used to determine vacation leave and severance pay entitlements. Please complete this information on your form.
 3. Direct Deposit Enrolment Request (PWGSC)
 4. Federal Personal Tax Credits Return - TD1 (CRA)
-5. Provincial Tax Credits Return Form (based on your province of work)
-* Provincial Tax Credits Return TD1 (prov) - all provinces except Quebec
-* Quebec - Source Deductions Return form (TP-1015.3)
+5. Provincial Tax Credits Return Form (based on your province of work)  
+    * Provincial Tax Credits Return TD1 (prov) - all provinces except Quebec
+    * Quebec - Source Deductions Return form (TP-1015.3)
 
 You will need to fax or scan and email the documents to:
 
