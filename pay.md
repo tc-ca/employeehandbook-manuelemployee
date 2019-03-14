@@ -17,7 +17,7 @@ You will need to fill out **all** mandatory forms below:
 
 You will need to fax or scan and email the documents to:
 
-**Fax or [email](PayCompensationOpsAPRBC@tc.gc.ca) all completed forms to Compensation APRBC at (613) 991-6512.**
+**Fax or [email](mailto:PayCompensationOpsAPRBC@tc.gc.ca) all completed forms to Compensation APRBC at (613) 991-6512.**
 
 Once you have submitted these forms, you will receive an automated email from Compensation Ops to let you know the items have been received.
 
