@@ -21,3 +21,12 @@ You will be required to bring one piece of photo identification to be able to ob
 Once you have received your PRI#:
 - [x] Sign up for LEX - Leave and extra duty system
 - [x] Sign up for myKEY
+
+
+## First day ##
+- [x] Meet your manager (or peer partner) at the front entrance or in the lobby of the building and introduce yourself.
+- [x] You will be introduced to your peer partner, if you have not already.
+- [x] You will be shown your workspace, and you will discuss the plan for the day.
+- [x] You will review with your manager your terms of employment, relevant provisions in the collective agreement, pay, values and ethics codes (organizational and public sector), employment equity self-identification, required training, and any accommodation needs you may have.
+- [x] Your manager (or peer partner) will introduce you to your new co-workers and provide you with a tour of the workplace. Become familiar with the location of your co-workers, the washrooms, kitchen areas, cafeteria, printers, and garbage/recycling areas.
+- [x] Confirm with your manager (or peer partner) that your workstation is properly set up and that your accommodation needs have been met, if applicable.
