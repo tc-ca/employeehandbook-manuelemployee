@@ -7,17 +7,17 @@ As a new employee, you will not have received a Personal Record Identifier (PRI)
 
 You will need to fill out **all** mandatory forms below:
 
-1. New Employee Questionnaire (Form: 10-0011)
+1. [New Employee Questionnaire (Form: 10-0011)](http://tcapps/wwwdocs/Forms/10-0011_1510-06_BO_X.pdf) 
 2. The employment summary information on page two of the New Employee Questionnaire will be used to determine vacation leave and severance pay entitlements. Please complete this information on your form.
-3. Direct Deposit Enrolment Request (PWGSC)
-4. Federal Personal Tax Credits Return - TD1 (CRA)
+3. [Direct Deposit Enrolment Request (PWGSC)](http://publiservice-app.pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&=e&display=6562)
+4. [Federal Personal Tax Credits Return - TD1 (CRA)](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later/td1-personal-tax-credits-return.html)
 5. Provincial Tax Credits Return Form (based on your province of work)  
-    * Provincial Tax Credits Return TD1 (prov) - all provinces except Quebec
-    * Quebec - Source Deductions Return form (TP-1015.3)
+    * [Provincial Tax Credits Return TD1 (prov) - all provinces except Quebec](https://www.canada.ca/en/revenue-agency/services/forms-publications/td1-personal-tax-credits-returns/td1-forms-pay-received-on-january-1-later.html)
+    * [Quebec - Source Deductions Return form (TP-1015.3)](http://www.revenu.gouv.qc.ca/en/sepf/formulaires/tp/tp-1015_3.aspx)
 
 You will need to fax or scan and email the documents to:
 
-**Fax or email all completed forms to Compensation APRBC at (613) 991-6512.**
+**Fax or [email](PayCompensationOpsAPRBC@tc.gc.ca) all completed forms to Compensation APRBC at (613) 991-6512.**
 
 Once you have submitted these forms, you will receive an automated email from Compensation Ops to let you know the items have been received.
 
