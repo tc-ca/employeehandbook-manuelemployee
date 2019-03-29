@@ -32,3 +32,10 @@ To find out how our pay system works, click the link below to find info on when 
 
 https://www.tpsgc-pwgsc.gc.ca/remuneration-compensation/services-paye-pay-services/paye-information-pay/paye-talon-stub-pay-eng.html
 
+
+## Pay: Guidance for Managers ##
+
+For managers hiring on new staff, transferring staff or having an employee leave TC, see procedures for documenting pay below:
+
+http://mytc.tc.gc.ca/pay-guidance-for-managers-2753.html
+
