@@ -50,6 +50,6 @@ You can use TC Webmail to check your email from any computer, at any time and fr
 
 To log into TC Webmail:
 1. Go to your browser and copy/paste or type https://tcwebmail.tc.gc.ca into the navigation bar.
-2. You will see the Webmail log-in screen. Enter your **TC user name** and **password** (the same ones you usually use to log in each morning at work).
+2. You will see the Webmail log-in screen. Enter your **TC user name** and **password** 
 3. Click **Log On** or hit **Enter**.
 4. When you are ready to log off, click the **Logoff** button in the top right corner of the screen.
