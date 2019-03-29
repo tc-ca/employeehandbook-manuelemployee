@@ -39,3 +39,15 @@ For managers hiring on new staff, transferring staff or having an employee leave
 
 http://mytc.tc.gc.ca/pay-guidance-for-managers-2753.html
 
+## Tax Slips ##
+
+### Accessing your tax slips ###
+
+There are different ways to access your tax slips:
+- Through Phoenix self-service using Compensation Web Applications (accessible only on the Government of Canada network)
+- Through Canada Revenue Agency or, if applicable, Revenu Québec (for current and former employees who are registered)
+- By mail to your home address as it appears in Phoenix (for former employees)
+
+If your tax slip is not available on Phoenix self-service by the end of February, contact PayCompensationOpsAPRBC@tc.gc.ca.
+
+
