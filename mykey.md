@@ -16,4 +16,6 @@ To begin in ORCA, click on “[myKEY sign up](https://eajl-orca.securise-secure.
 1. If you already have an Entrust profile, click on “Import LRA Created myKEY” and follow the prompts.
 2. If you do not have an Entrust profile and are a new user, sign-up and provide your personal information, such as name, email, address, personal identification number (PRI) and date of birth.
 3. If you received your myKEY using ORCA, you can use the system to recover your myKEY.
-4. 
+4. If you are on secondment to TC, go to [“ORCA for Seconded Employees”](https://eajl-orca.securise-secure.gc.ca/O/vw/affectation-secondment-eng.pub), click on [myKEY Sign Up](https://eajl-orca.securise-secure.gc.ca/O/s/rg/inscription-registration-eng.pub) and complete the registration form.
+
+**Remember:** Your **myKEY** password must comply with the [Strong Password](http://mytc/how-do-i-create-a-strong-password-3125.html) policy. If you have trouble accessing the ORCA page or enrolling, please contact the Service Desk at 613-991-8908 or your [regional support unit (RSU)](http://mytc/technical-support-and-resources.html).
