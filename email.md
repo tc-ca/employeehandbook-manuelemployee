@@ -46,9 +46,11 @@ email@tc.gc.ca / Tél. : xxx-xxx-xxxx *(replace with your email and phone #)*
 
 ## Accessing email outside of work ##
 
-You can use your Entrust token to access your email from any computer.
+Remote log on instructions to the TC network using an Entrust Token:
+1. In your browser, go to https://tcaccess.tc.gc.ca
+2. Enter your User name and Password.
+3. Press and hold the button on the front of your Entrust Token to generate a random number.  This is your Passcode and it will remain visible for 30 seconds only. If the screen goes black and you have not had time to type in your Passcode numbers, you will need to press and hold the token again to get a new number.
+4. Enter your Entrust Token number into the Passcode field as indicated below. 
+5. Press Log On.
 
-1. Go to your browser and copy/paste or type https://tcaccess.tc.gc.ca into the navigation bar.
-2. You will see the log-in screen. Enter your **TC user name**, **password** ana **Passcode** from your Entrust token
-3. Click **Log On** or hit **Enter**.
-4. When you are ready to log off, click the **Logoff** button in the top right corner of the screen.
+Note:  You will need to generate a new Passcode each time you are prompted to login.  (For example, when you work from home, and get timed out, your login pop-up screen will be asking you to log in again.  You will have to re-press the Token for another Passcode and log back in to continue working.)
