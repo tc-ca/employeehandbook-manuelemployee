@@ -44,12 +44,11 @@ email@tc.gc.ca / Tél. : xxx-xxx-xxxx *(replace with your email and phone #)*
     - Password: Your password used to log into your email    
 3. Submit inforamtion and your email should automatically sync to your device
 
-## Accessing email outside of work (Webmail) ##
+## Accessing email outside of work ##
 
-You can use TC Webmail to check your email from any computer, at any time and from wherever you are. TC Webmail is available to all Transport Canada employees.
+You can use your Entrust token to access your email from any computer.
 
-To log into TC Webmail:
-1. Go to your browser and copy/paste or type https://tcwebmail.tc.gc.ca into the navigation bar.
-2. You will see the Webmail log-in screen. Enter your **TC user name** and **password** 
+1. Go to your browser and copy/paste or type https://tcaccess.tc.gc.ca into the navigation bar.
+2. You will see the log-in screen. Enter your **TC user name**, **password** ana **Passcode** from your Entrust token
 3. Click **Log On** or hit **Enter**.
 4. When you are ready to log off, click the **Logoff** button in the top right corner of the screen.
