@@ -81,10 +81,13 @@ For emergency help during business hours, you can also contact your nearest emba
 
 You can also contact DFATD’s Emergency Watch and Response Centre in Ottawa anytime at:
 
-Telephone:    
+**Telephone:**
 1-613-996-8885 (call collect where available)    
-Toll free numbers available in some countries    
-Email: 	sos@international.gc.ca
-TTY: 1-613-944-1310    
+Toll free numbers available in some countries   
+
+**Email:** 	sos@international.gc.ca
+
+**TTY:**    
+1-613-944-1310    
 1-800-394-3472 (toll-free from the U.S. and Canada only) 
 
