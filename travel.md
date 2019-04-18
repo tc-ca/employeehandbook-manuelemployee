@@ -91,3 +91,7 @@ Toll free numbers available in some countries
 1-613-944-1310    
 1-800-394-3472 (toll-free from the U.S. and Canada only) 
 
+## After you travel ##
+
+You should complete your travel Expense Report in iTravel as soon as possible after you return from your trip. 
+
