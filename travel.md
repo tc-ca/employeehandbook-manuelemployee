@@ -71,7 +71,7 @@ Fax: 	1-819-956-4944
 
 Government employees are protected by the Public Service Travel Benefit and Emergency Travel Assistance Benefit (Plan 9355). If emergency assistance is needed while travelling, a 24-hour help line is available. Multilingual coordinators can access a worldwide network of professionals who offer help with medical, legal, or other travel-related emergencies. Call the 24-hour toll-free number:
 
-Telephone:     
+**Telephone:**     
 1-800-667-2883 in Canada and United States    
 519-742-1342 in all other countries (call collect)
 
@@ -81,7 +81,7 @@ For emergency help during business hours, you can also contact your nearest emba
 
 You can also contact DFATD’s Emergency Watch and Response Centre in Ottawa anytime at:
 
-**Telephone:**
+**Telephone:**    
 1-613-996-8885 (call collect where available)    
 Toll free numbers available in some countries   
 
