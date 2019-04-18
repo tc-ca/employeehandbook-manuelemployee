@@ -59,28 +59,32 @@ For problems with tickets, public carriers, flight changes, delays, cancellation
 1-866-857-3578 (toll-free from the U.S. and Canada only)    
 1-613-822-3873 (international collect call number)
 
-Hotel or car rental
+### Hotel or car rental ###
 
-For problems with hotels or car rentals, contact PWGSC Travel Services Division directly.
-Telephone: 	1-819-956-4341
-Email: 	tpsgcservicesdevoyage.pwgsctravelservices@tpsgc-pwgsc.gc.ca
-Fax: 	1-819-956-4944
-Travel emergencies
+For problems with hotels or car rentals, contact PWGSC Travel Services Division directly.    
+
+Telephone: 1-819-956-4341    
+Email: 	tpsgcservicesdevoyage.pwgsctravelservices@tpsgc-pwgsc.gc.ca    
+Fax: 	1-819-956-4944    
+
+### Travel emergencies ###
 
 Government employees are protected by the Public Service Travel Benefit and Emergency Travel Assistance Benefit (Plan 9355). If emergency assistance is needed while travelling, a 24-hour help line is available. Multilingual coordinators can access a worldwide network of professionals who offer help with medical, legal, or other travel-related emergencies. Call the 24-hour toll-free number:
-Telephone: 	1-800-667-2883 in Canada and United States
-	519-742-1342 in all other countries (call collect)
-Fax: 	519-742-2581
+
+Telephone:     
+1-800-667-2883 in Canada and United States    
+519-742-1342 in all other countries (call collect)
 
 For emergency help during business hours, you can also contact your nearest embassy or consulate directly.
 
 (Print contact information before you travel)
 
 You can also contact DFATD’s Emergency Watch and Response Centre in Ottawa anytime at:
-Telephone: 	1-613-996-8885 (call collect where available)
-	Toll free numbers available in some countries
+
+Telephone:    
+1-613-996-8885 (call collect where available)    
+Toll free numbers available in some countries    
 Email: 	sos@international.gc.ca
-	Emergency Contact Form
-TTY: 	1-613-944-1310
-	1-800-394-3472 (toll-free from the U.S. and Canada only) 
+TTY: 1-613-944-1310    
+1-800-394-3472 (toll-free from the U.S. and Canada only) 
 
