@@ -54,3 +54,19 @@ Remote log on instructions to the TC network using an Entrust Token:
 5. Press Log On.
 
 Note:  You will need to generate a new Passcode each time you are prompted to login.  (For example, when you work from home, and get timed out, your login pop-up screen will be asking you to log in again.  You will have to re-press the Token for another Passcode and log back in to continue working.)
+
+## Out of office message ##
+
+I'm out of the office.
+
+If your request is urgent, please contact *Name of Contact* at *contact email*.
+
+Thank you.
+
+----------
+
+Je suis hors du bureau.
+
+Si votre demande est urgente, veuillez communiquer avec *Name of contact* à *email*.
+
+Merci.
