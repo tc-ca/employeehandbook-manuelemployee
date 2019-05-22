@@ -34,7 +34,7 @@ email@tc.gc.ca / Tél. : xxx-xxx-xxxx *(replace with your email and phone #)*
 
 ## Outlook Exchange for Mobile ##
 
-**Android Devices**
+**Android/Apple Devices**
 
 1. After your TC email has been set-up, download the Outlook app on your mobile device.
 2. Connect to Outlook Exchange option and enter to following details:    
@@ -42,7 +42,9 @@ email@tc.gc.ca / Tél. : xxx-xxx-xxxx *(replace with your email and phone #)*
     - Server: tcwebmail.tc.gc.ca
     - Domain: tc/username (insert your username)
     - Password: Your password used to log into your email    
-3. Submit inforamtion and your email should automatically sync to your device
+3. Submit information and your email should automatically sync to your device
+
+*This setup only works on mobile devices*
 
 ## Accessing email outside of work ##
 
