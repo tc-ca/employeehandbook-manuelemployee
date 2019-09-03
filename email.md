@@ -22,13 +22,13 @@ For guidance on how to add your email signature in Outlook, and more information
 
 **Your Name**
  
-Manager, User Experience, Service Design, and Digital Research Lab *(Your job title)*    
-Digital Services Enablement, Digital Services Directorate    
+[Role], Service Innovation Hub *(Your job title)*    
+Digital Services Enablement, Service Innovation Directorate
 Transport Canada / Government of Canada    
 email@tc.gc.ca / Tel. : xxx-xxx-xxxx *(replace with your email and phone #)*
 
-Gestionnaire, expérience utilisateur, conception de service *(Your job title FR)*    
-Facilitation des services numériques, Direction générale des services numériques    
+[Rôle], Pôle pour l'innovation dans les services *(Your job title FR)*    
+Facilitation des services numériques, Direction Générale pour l'innovation dans les services   
 Transports Canada / Gouvernement du Canada    
 email@tc.gc.ca / Tél. : xxx-xxx-xxxx *(replace with your email and phone #)*
 
