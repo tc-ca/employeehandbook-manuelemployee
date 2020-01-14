@@ -59,7 +59,7 @@ Note:  You will need to generate a new Passcode each time you are prompted to lo
 
 ## Out of office message ##
 
-I'm out of the office.
+I'm out of the office from *dd Month* to *dd Month*.
 
 If your request is urgent, please contact *Name of Contact* at *contact email*.
 
@@ -67,8 +67,8 @@ Thank you.
 
 ----------
 
-Je suis hors du bureau.
+Je suis hors du bureau du *jj mois* au *jj mois*.
 
-Si votre demande est urgente, veuillez communiquer avec *Name of contact* à *email*.
+Si votre demande est urgente, veuillez communiquer avec *Nom de la personne à contacter* à *adresse courriel*.
 
 Merci.
